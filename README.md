@@ -26,8 +26,6 @@ For a live preview please visit: https://bizscout-eight.vercel.app/
 
 `http://localhost:3000`
 
-The main challenging part of the project was to make the webiste responsive. Otherwise
-
 ## Important Notes
 
 ===============
