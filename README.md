@@ -2,7 +2,9 @@
 
 =====================
 
-This project is a Next.js application built with TypeScript and styled with Tailwind CSS.
+This project is a Next.js application built with Tailwind CSS, converting a Figma design into a responsive web app. The app features a mobile menu and utilizes mock static data for demonstration purposes. Notably, I deviated from the original design to improve the user experience by adjusting font sizes and spacing to better accommodate various screen sizes. The project focuses on responsive design, ensuring a seamless user experience across different devices and screen resolutions. No server side api call or routing is present in the project. all links are dummy links.
+
+For a live preview please visit: https://bizscout-eight.vercel.app/
 
 ## Setup Instructions
 
@@ -10,7 +12,7 @@ This project is a Next.js application built with TypeScript and styled with Tail
 
 ### Clone the repository
 
-`git clone https://github.com/your-username/your-repo-name.git`
+`git clone https://github.com/webmmr/bizscout.git`
 
 ### Install dependencies
 
@@ -24,9 +26,7 @@ This project is a Next.js application built with TypeScript and styled with Tail
 
 `http://localhost:3000`
 
-## Approach
-
-==========
+The main challenging part of the project was to make the webiste responsive. Otherwise
 
 ## Important Notes
 
@@ -36,3 +36,4 @@ This project is a Next.js application built with TypeScript and styled with Tail
 - This project uses a `tsconfig.json` file to configure the TypeScript compiler.
 - The `tailwind.config.js` file is used to customize the Tailwind CSS configuration.
 - The `next.config.js` file is used to customize the Next.js configuration.
+- This was a part of the job interview process and I was tasked with converting a Figma design into responsive website.
